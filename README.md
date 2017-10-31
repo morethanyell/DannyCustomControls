@@ -1,6 +1,6 @@
 # DannyCustomControls
 A community project for the members of Facebook page Programmers, Developers. 
-This is a C# project containing custom controlls like custom TextBox.
+This is a C# project containing custom controls like custom TextBox.
 
 # My Wish as a Originator
 I'd like to call myself as the originator, instead of the author because my wish is for this project to
@@ -10,3 +10,10 @@ be a community project. I hope that
     2. This will broaden, meaning more suggestions and improvements are added by contributors
     3. People learn how to create your own controls, instead of using Bunifu
     4. Just enjoy coding
+
+# How to use
+
+    1. Open your Visual Studio
+    2. Make sure you have GitHub extension
+    3. Fork this
+    4. Clone
