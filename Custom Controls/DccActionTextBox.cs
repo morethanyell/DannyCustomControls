@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Copyright 2017. Daniel L. Astillero
+ * 
+ * 
+ * */
+
+
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using static DannyCustomControls.DccEnumerations;
@@ -244,6 +251,13 @@ namespace DannyCustomControls {
         [Browsable(false), EditorBrowsable(EditorBrowsableState.Never)]
         [Obsolete("Deprecated", true)]
         public new BorderStyle BorderStyle { get; set; }
+
+        /// <summary>
+        /// Hides the property Text
+        /// </summary>
+        [Browsable(false), EditorBrowsable(EditorBrowsableState.Never)]
+        [Obsolete("Deprecated", true)]
+        public new string Text { get; set; }
 
         #endregion
 

@@ -224,6 +224,13 @@ namespace DannyCustomControls {
 
         }
 
+        /// <summary>
+        /// Hides the property Text
+        /// </summary>
+        [Browsable(false), EditorBrowsable(EditorBrowsableState.Never)]
+        [Obsolete("Deprecated", true)]
+        public new string Text { get; set; }
+
         #endregion
 
         #region EVENTS

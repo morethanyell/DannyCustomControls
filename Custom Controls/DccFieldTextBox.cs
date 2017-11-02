@@ -2,6 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
+using System.ComponentModel;
 
 namespace DannyCustomControls {
 
@@ -234,6 +235,13 @@ namespace DannyCustomControls {
                 this.HostedTextBox.AutoCompleteCustomSource = value;
             }
         }
+
+        /// <summary>
+        /// Hides the property Text
+        /// </summary>
+        [Browsable(false), EditorBrowsable(EditorBrowsableState.Never)]
+        [Obsolete("Deprecated", true)]
+        public new string Text { get; set; }
 
         #endregion
 
