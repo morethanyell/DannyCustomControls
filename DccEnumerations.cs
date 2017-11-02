@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Copyright 2017. Daniel L. Astillero
+ * 
+ * 
+ * */
+
+using System;
 
 namespace DannyCustomControls {
 
