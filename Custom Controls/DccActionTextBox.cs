@@ -1,5 +1,5 @@
 ﻿/*
- * (C) 2017. Daniel L. Astillero
+ * Copyright 2017. Daniel L. Astillero
  * 
  * 
  * */
