@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -172,6 +173,13 @@ namespace DannyCustomControls {
                 this.Invalidate(true);
             }
         }
+
+        /// <summary>
+        /// Hides the property Text
+        /// </summary>
+        [Browsable(false), EditorBrowsable(EditorBrowsableState.Never)]
+        [Obsolete("Deprecated", true)]
+        public new string Text { get; set; }
 
         #endregion
 

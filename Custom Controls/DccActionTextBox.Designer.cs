@@ -67,7 +67,7 @@
             // 
             this.HostedTextBox.BackColor = System.Drawing.Color.White;
             this.HostedTextBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.HostedTextBox.Cue = "Watermark (HostedTextbox Cue)";
+            this.HostedTextBox.Cue = "Watermark (HostedTextboxCue)";
             this.HostedTextBox.CueForeColor = System.Drawing.Color.Gray;
             this.HostedTextBox.Dock = System.Windows.Forms.DockStyle.Fill;
             this.HostedTextBox.Location = new System.Drawing.Point(6, 7);
@@ -98,13 +98,13 @@
             this.HostedButton.Leave += new System.EventHandler(this.HostedTextBox_Leave);
             this.HostedButton.MouseClick += new System.Windows.Forms.MouseEventHandler(this.HostedButton_MouseClick);
             // 
-            // PActionTextBox
+            // DccActionTextBox
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.panMain);
-            this.Name = "PActionTextBox";
+            this.Name = "DccActionTextBox";
             this.Size = new System.Drawing.Size(280, 30);
             this.Enter += new System.EventHandler(this.HostedTextBox_Enter);
             this.Leave += new System.EventHandler(this.HostedTextBox_Leave);
