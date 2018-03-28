@@ -17,3 +17,4 @@ be a community project. I hope that
     2. Make sure you have GitHub extension
     3. Fork this
     4. Clone
+    5. Watch this: https://www.youtube.com/edit?o=U&video_id=RnxRs25jpBE
