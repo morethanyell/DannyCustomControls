@@ -18,3 +18,6 @@ be a community project. I hope that
     3. Fork this
     4. Clone
     5. Watch this: https://www.youtube.com/edit?o=U&video_id=RnxRs25jpBE
+
+# Time flies!
+	It's November 26, 2018... :)
