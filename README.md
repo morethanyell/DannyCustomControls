@@ -2,7 +2,7 @@
 A community project for the members of Facebook page Programmers, Developers. 
 This is a C# project containing custom controls like custom TextBox.
 
-# My Wish as a Originator
+# My Wish as the Originator
 I'd like to call myself as the originator, instead of the author because my wish is for this project to
 be a community project. I hope that
 
