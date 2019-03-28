@@ -21,3 +21,4 @@ be a community project. I hope that
 
 # Time flies!
 	It's November 26, 2018... :)
+	Goodbye, Accenture. :)
